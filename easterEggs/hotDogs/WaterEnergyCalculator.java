@@ -1,4 +1,4 @@
-//Quetion 9
+//Quetion 10
 import java.util.Scanner;
 
 public class WaterEnergyCalculator{
