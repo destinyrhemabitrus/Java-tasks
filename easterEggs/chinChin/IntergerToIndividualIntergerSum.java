@@ -7,7 +7,7 @@ public class IntergerToIndividualIntergerSum{
 	
 	Scanner input = new Scanner(System.in);
 
-	System.out.print("Enter a number: ");
+	System.out.print("Enter a three digit number: ");
 	int num = input.nextInt();
 
 	int wholeNum1 = num/10;
