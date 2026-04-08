@@ -1,4 +1,4 @@
-//Quetion 24
+//Quetion 26
 
 import java.util.Scanner;
 
