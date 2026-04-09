@@ -1,5 +1,5 @@
 
-//Quetion 14
+//Quetion 11
 import java.util.Scanner;
 
 public class VehicleSpeedStatus{
